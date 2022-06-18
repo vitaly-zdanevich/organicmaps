@@ -16836,6 +16836,10 @@
     zh-Hans = 化妝品店
     zh-Hant = 化妆品
 
+  [type.shop.deli]
+    en = Delicatessen Shop
+    ru = Магазин деликатесов
+
   [type.shop.department_store]
     en = Department Store
     ar = متجر شامل
@@ -17038,6 +17042,10 @@
     vi = Cửa hàng
     zh-Hans = 商店
     zh-Hant = 購物
+
+  [type.shop.farm]
+    en = Farm Food Shop
+    ru = Магазин фермерской еды
 
   [type.shop.florist]
     en = Florist’s
@@ -17244,6 +17252,10 @@
     zh-Hans = 蔬果零售店
     zh-Hant = 蔬果零售店
 
+  [type.shop.grocery]
+    en = Grocery
+    ru = Бакалея
+
   [type.shop.hairdresser]
     en = Hairdresser
     ar = مصفف شعر
@@ -17279,38 +17291,21 @@
     zh-Hant = 理髮師
 
   [type.shop.hardware]
-    en = Hardware Store
-    ar = متجر عدد وأدوات
-    cs = Železářství
-    da = Isenkræmmer
+    ref = type.shop.doityourself
     de = Eisenwarengeschäft
-    el = Είδη κιγκαλερίας
-    es = Ferretería
-    eu = Burdindegia
-    fa = فروشگاه
-    fi = Rautakauppa
     fr = Quincaillerie
-    hu = Vaskereskedés
-    id = Toko perangkat keras
-    it = Ferramenta
-    ja = 工具店
-    ko = 철물점
-    mr = हार्डवेअर दुकान
-    nb = Jernvareforretning
-    nl = Ijzerhandel
-    pl = Sklep narzędziowy
     pt = Loja de ferragens
     pt-BR = Loja de ferragens
-    ro = Magazin de bricolaj
-    ru = Хозяйственный
-    sk = Železiarstvo
-    sv = Järnhandel
-    th = ร้านขายฮาร์ดแวร์
-    tr = Hırdavatçı
     uk = Будматеріали
-    vi = Cửa hàng phần cứng
     zh-Hans = 硬件店
-    zh-Hant = 五金行
+
+  [type.shop.health_food]
+    en = Health Food Shop
+    ru = Магазин здоровой еды
+
+  [type.shop.houseware]
+    ref = type.shop.doityourself
+    en = Houseware
 
   [type.shop.jewelry]
     en = Jewelry
@@ -17372,6 +17367,10 @@
     vi = Cửa hàng
     zh-Hans = 商店
     zh-Hant = 小舖
+
+  [type.shop.kitchen]
+    en = Kitchen Store
+    ru = Магазин кухонь
 
   [type.shop.laundry]
     en = Laundry
@@ -17747,6 +17746,11 @@
     zh-Hans = 室外设备
     zh-Hant = 室外設備
 
+  [type.shop.pastry]
+    ref = type.shop.bakery
+    en = Pastry
+    ru = Кондитерская пекарня
+
   [type.shop.pawnbroker]
     en = Pawnbroker
     ar = سمسار تسليف
@@ -17881,6 +17885,10 @@
     vi = Người bán cá
     zh-Hans = 鱼商
     zh-Hant = 魚販
+
+  [type.shop.second_hand]
+    en = Second Hand
+    ru = Магазин подержанных товаров
 
   [type.shop.shoes]
     en = Shoe Store
@@ -18356,6 +18364,90 @@
     vi = Rượu
     zh-Hans = 酒品商店
     zh-Hant = 販酒處
+
+  [type.shop.antiques]
+    en = Antiques
+    ru = Антиквариат
+
+  [type.shop.art]
+    en = Arts Shop
+
+  [type.shop.baby_goods]
+    en = Baby Goods
+    ru = Детский магазин
+
+  [type.shop.bag]
+    en = Bags
+
+  [type.shop.boutique]
+    en = Boutique
+    ru = Бутик
+
+  [type.shop.charity]
+    en = Charity Shop
+    ru = Благотворительный магазин
+
+  [type.shop.cheese]
+    en = Cheese
+    ru = Сыры
+
+  [type.shop.craft]
+    en = Arts and Crafts
+
+  [type.shop.dairy]
+    en = Dairy
+    en-NZ = Dairy Products
+    ru = Молочные продукты
+
+  [type.shop.electrical]
+    en = Electrical Store
+    ru = Электротовары
+
+  [type.shop.fishing]
+    en = Fishing Store
+    ru = Рыболовный магазин
+
+  [type.shop.interior_decoration]
+    en = Interior Decorations
+
+  [type.shop.lottery]
+    en = Lottery Tickets
+
+  [type.shop.medical_supply]
+    en = Medical Supplies
+
+  [type.shop.nutrition_supplements]
+    en = Nutrition Supplements
+
+  [type.shop.paint]
+    en = Paints
+    ru = Краски
+
+  [type.shop.perfumery]
+    en = Perfumery
+    ru = Парфюмерия
+
+  [type.shop.sewing]
+    en = Sewing Supplies
+    ru = Швейный магазин
+
+  [type.shop.storage_rental]
+    en = Storage Rental
+
+  [type.shop.tobacco]
+    en = Tobacco
+    ru = Табак
+
+  [type.shop.trade]
+    en = Trades Supplies
+
+  [type.shop.watches]
+    en = Watches
+    ru = Наручные часы
+
+  [type.shop.wholesale]
+    en = Wholesale Store
+    ru = Оптовый магазин
 
   [type.sport]
     en = sport
