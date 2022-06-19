@@ -2760,6 +2760,8 @@
 
 "type.shop.cosmetics" = "مستحضرات تجميل";
 
+"type.shop.deli" = "Delicatessen Shop";
+
 "type.shop.department_store" = "متجر شامل";
 
 "type.shop.doityourself" = "متجر عدد وأدوات";
@@ -2771,6 +2773,8 @@
 "type.shop.erotic" = "متجر منتجات جنسية";
 
 "type.shop.fabric" = "متجر";
+
+"type.shop.farm" = "Farm Food Shop";
 
 "type.shop.florist" = "متجر زهور";
 
@@ -2784,13 +2788,21 @@
 
 "type.shop.greengrocer" = "متجر خضروات وفواكه";
 
+"type.shop.grocery" = "Grocery";
+
 "type.shop.hairdresser" = "مصفف شعر";
 
 "type.shop.hardware" = "متجر عدد وأدوات";
 
+"type.shop.health_food" = "Health Food Shop";
+
+"type.shop.houseware" = "متجر عدد وأدوات";
+
 "type.shop.jewelry" = "مجوهرات";
 
 "type.shop.kiosk" = "كشك";
+
+"type.shop.kitchen" = "Kitchen Store";
 
 "type.shop.laundry" = "مغسلة ملابس";
 
@@ -2814,6 +2826,8 @@
 
 "type.shop.outdoor" = "معدات خارجية";
 
+"type.shop.pastry" = "مخبز";
+
 "type.shop.pawnbroker" = "سمسار تسليف";
 
 "type.shop.pet" = "متجر للحيوانات الأليفة";
@@ -2821,6 +2835,8 @@
 "type.shop.photo" = "محل صور";
 
 "type.shop.seafood" = "سماك";
+
+"type.shop.second_hand" = "Second Hand";
 
 "type.shop.shoes" = "متجر أحذية";
 
@@ -2849,6 +2865,52 @@
 "type.shop.video_games" = "متجر ألعاب فيديو";
 
 "type.shop.wine" = "متجر مشروبات روحية";
+
+"type.shop.antiques" = "Antiques";
+
+"type.shop.art" = "Arts Shop";
+
+"type.shop.baby_goods" = "Baby Goods";
+
+"type.shop.bag" = "Bags";
+
+"type.shop.boutique" = "Boutique";
+
+"type.shop.charity" = "Charity Shop";
+
+"type.shop.cheese" = "Cheese";
+
+"type.shop.craft" = "Arts and Crafts";
+
+"type.shop.dairy" = "Dairy";
+
+"type.shop.electrical" = "Electrical Store";
+
+"type.shop.fishing" = "Fishing Store";
+
+"type.shop.interior_decoration" = "Interior Decorations";
+
+"type.shop.lottery" = "Lottery Tickets";
+
+"type.shop.medical_supply" = "Medical Supplies";
+
+"type.shop.nutrition_supplements" = "Nutrition Supplements";
+
+"type.shop.paint" = "Paints";
+
+"type.shop.perfumery" = "Perfumery";
+
+"type.shop.sewing" = "Sewing Supplies";
+
+"type.shop.storage_rental" = "Storage Rental";
+
+"type.shop.tobacco" = "Tobacco";
+
+"type.shop.trade" = "Trades Supplies";
+
+"type.shop.watches" = "Watches";
+
+"type.shop.wholesale" = "Wholesale Store";
 
 "type.sport" = "sport";
 

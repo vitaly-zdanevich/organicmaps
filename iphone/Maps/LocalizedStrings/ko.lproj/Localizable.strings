@@ -2760,6 +2760,8 @@
 
 "type.shop.cosmetics" = "화장품";
 
+"type.shop.deli" = "Delicatessen Shop";
+
 "type.shop.department_store" = "백화점";
 
 "type.shop.doityourself" = "철물점";
@@ -2771,6 +2773,8 @@
 "type.shop.erotic" = "성인용품 가게";
 
 "type.shop.fabric" = "가게";
+
+"type.shop.farm" = "Farm Food Shop";
 
 "type.shop.florist" = "꽃가게";
 
@@ -2784,13 +2788,21 @@
 
 "type.shop.greengrocer" = "청과상";
 
+"type.shop.grocery" = "Grocery";
+
 "type.shop.hairdresser" = "이발사";
 
 "type.shop.hardware" = "철물점";
 
+"type.shop.health_food" = "Health Food Shop";
+
+"type.shop.houseware" = "철물점";
+
 "type.shop.jewelry" = "보석류";
 
 "type.shop.kiosk" = "정자";
+
+"type.shop.kitchen" = "Kitchen Store";
 
 "type.shop.laundry" = "세탁소";
 
@@ -2814,6 +2826,8 @@
 
 "type.shop.outdoor" = "아웃도어 장비";
 
+"type.shop.pastry" = "베이커리";
+
 "type.shop.pawnbroker" = "전당포";
 
 "type.shop.pet" = "펫샵";
@@ -2821,6 +2835,8 @@
 "type.shop.photo" = "사진 가게";
 
 "type.shop.seafood" = "생선가게";
+
+"type.shop.second_hand" = "Second Hand";
 
 "type.shop.shoes" = "신발 가게";
 
@@ -2849,6 +2865,52 @@
 "type.shop.video_games" = "비디오 게임 가게";
 
 "type.shop.wine" = "와인 샵";
+
+"type.shop.antiques" = "Antiques";
+
+"type.shop.art" = "Arts Shop";
+
+"type.shop.baby_goods" = "Baby Goods";
+
+"type.shop.bag" = "Bags";
+
+"type.shop.boutique" = "Boutique";
+
+"type.shop.charity" = "Charity Shop";
+
+"type.shop.cheese" = "Cheese";
+
+"type.shop.craft" = "Arts and Crafts";
+
+"type.shop.dairy" = "Dairy";
+
+"type.shop.electrical" = "Electrical Store";
+
+"type.shop.fishing" = "Fishing Store";
+
+"type.shop.interior_decoration" = "Interior Decorations";
+
+"type.shop.lottery" = "Lottery Tickets";
+
+"type.shop.medical_supply" = "Medical Supplies";
+
+"type.shop.nutrition_supplements" = "Nutrition Supplements";
+
+"type.shop.paint" = "Paints";
+
+"type.shop.perfumery" = "Perfumery";
+
+"type.shop.sewing" = "Sewing Supplies";
+
+"type.shop.storage_rental" = "Storage Rental";
+
+"type.shop.tobacco" = "Tobacco";
+
+"type.shop.trade" = "Trades Supplies";
+
+"type.shop.watches" = "Watches";
+
+"type.shop.wholesale" = "Wholesale Store";
 
 "type.sport" = "sport";
 

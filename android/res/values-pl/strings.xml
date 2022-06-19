@@ -1377,6 +1377,7 @@
 	<string name="type.shop.greengrocer">Warzywniak</string>
 	<string name="type.shop.hairdresser">Fryzjer</string>
 	<string name="type.shop.hardware">Sklep narzędziowy</string>
+	<string name="type.shop.houseware">Sklep narzędziowy</string>
 	<string name="type.shop.jewelry">Jubiler</string>
 	<string name="type.shop.laundry">Pralnia samoobsługowa</string>
 	<string name="type.shop.mall">Centrum handlowe</string>
@@ -1389,6 +1390,7 @@
 	<string name="type.shop.newsagent">Stoisko z prasą</string>
 	<string name="type.shop.optician">Sklep optyczny</string>
 	<string name="type.shop.outdoor">Sprzęt turystyczny</string>
+	<string name="type.shop.pastry">Piekarnia</string>
 	<string name="type.shop.pawnbroker">Lombard</string>
 	<string name="type.shop.pet">Sklep zoologiczny</string>
 	<string name="type.shop.photo">Fotograf</string>

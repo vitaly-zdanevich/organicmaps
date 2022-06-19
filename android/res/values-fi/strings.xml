@@ -1256,6 +1256,7 @@
 	<string name="type.shop.greengrocer">Vihanneskauppias</string>
 	<string name="type.shop.hairdresser">Kampaamo</string>
 	<string name="type.shop.hardware">Rautakauppa</string>
+	<string name="type.shop.houseware">Rautakauppa</string>
 	<string name="type.shop.jewelry">Korukauppa</string>
 	<string name="type.shop.kiosk">Kioski</string>
 	<string name="type.shop.laundry">Pesula</string>
@@ -1269,6 +1270,7 @@
 	<string name="type.shop.newsagent">Lehtikioski</string>
 	<string name="type.shop.optician">Optikko</string>
 	<string name="type.shop.outdoor">Ulkoiluvarusteet</string>
+	<string name="type.shop.pastry">Leipomo</string>
 	<string name="type.shop.pawnbroker">Panttilainaamo</string>
 	<string name="type.shop.pet">Eläinkauppa</string>
 	<string name="type.shop.photo">Valokuvakauppa</string>

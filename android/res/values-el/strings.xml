@@ -1245,6 +1245,7 @@
 	<string name="type.shop.greengrocer">Μανάβικο</string>
 	<string name="type.shop.hairdresser">Κομμωτής</string>
 	<string name="type.shop.hardware">Είδη κιγκαλερίας</string>
+	<string name="type.shop.houseware">Είδη κιγκαλερίας</string>
 	<string name="type.shop.jewelry">Κοσμηματοπωλείο</string>
 	<string name="type.shop.kiosk">Περίπτερο</string>
 	<string name="type.shop.laundry">Άπλυτα</string>
@@ -1258,6 +1259,7 @@
 	<string name="type.shop.newsagent">Εφημεριδοπώλης</string>
 	<string name="type.shop.optician">Κατάστημα οπτικών</string>
 	<string name="type.shop.outdoor">Εξοπλισμός υπαίθρου</string>
+	<string name="type.shop.pastry">Αρτοποιείο</string>
 	<string name="type.shop.pawnbroker">Ενεχυροδανειστήριο</string>
 	<string name="type.shop.pet">Κατάστημα για κατοικίδια</string>
 	<string name="type.shop.photo">Φωτογραφείο</string>

@@ -1258,6 +1258,7 @@
 	<string name="type.shop.greengrocer">Băcănie</string>
 	<string name="type.shop.hairdresser">Coafor</string>
 	<string name="type.shop.hardware">Magazin de bricolaj</string>
+	<string name="type.shop.houseware">Magazin de bricolaj</string>
 	<string name="type.shop.jewelry">Bijutier</string>
 	<string name="type.shop.kiosk">Magazin</string>
 	<string name="type.shop.laundry">Spălătorie</string>
@@ -1271,6 +1272,7 @@
 	<string name="type.shop.newsagent">Chioșc cu ziare</string>
 	<string name="type.shop.optician">Optică</string>
 	<string name="type.shop.outdoor">Echipament de exterior</string>
+	<string name="type.shop.pastry">Brutărie</string>
 	<string name="type.shop.pawnbroker">Amanet</string>
 	<string name="type.shop.pet">Pet shop</string>
 	<string name="type.shop.photo">Centru fotografii</string>

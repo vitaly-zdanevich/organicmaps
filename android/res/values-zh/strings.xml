@@ -1399,6 +1399,7 @@
 	<string name="type.shop.greengrocer">蔬果零售店</string>
 	<string name="type.shop.hairdresser">理发师</string>
 	<string name="type.shop.hardware">硬件店</string>
+	<string name="type.shop.houseware">家居用品店</string>
 	<string name="type.shop.jewelry">珠宝店</string>
 	<string name="type.shop.kiosk">商店</string>
 	<string name="type.shop.laundry">洗衣店</string>
@@ -1412,6 +1413,7 @@
 	<string name="type.shop.newsagent">报刊亭</string>
 	<string name="type.shop.optician">眼镜店</string>
 	<string name="type.shop.outdoor">室外设备</string>
+	<string name="type.shop.pastry">烘培店</string>
 	<string name="type.shop.pawnbroker">典当商铺</string>
 	<string name="type.shop.pet">宠物店</string>
 	<string name="type.shop.photo">照片店</string>

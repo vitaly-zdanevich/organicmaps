@@ -1231,6 +1231,7 @@
 	<string name="type.shop.greengrocer">Grønthandler</string>
 	<string name="type.shop.hairdresser">Frisør</string>
 	<string name="type.shop.hardware">Isenkræmmer</string>
+	<string name="type.shop.houseware">Isenkræmmer</string>
 	<string name="type.shop.jewelry">Smykkebutik</string>
 	<string name="type.shop.laundry">Vaskeri</string>
 	<string name="type.shop.mall">Indkøbscenter</string>
@@ -1243,6 +1244,7 @@
 	<string name="type.shop.newsagent">Avis-kiosk</string>
 	<string name="type.shop.optician">Optiker</string>
 	<string name="type.shop.outdoor">Fritidsudstyr</string>
+	<string name="type.shop.pastry">Bager</string>
 	<string name="type.shop.pawnbroker">Pantelåner</string>
 	<string name="type.shop.pet">Dyrehandel</string>
 	<string name="type.shop.photo">Fotobutik</string>

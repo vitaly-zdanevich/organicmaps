@@ -1231,6 +1231,7 @@
 	<string name="type.shop.greengrocer">Grönsakshandlare</string>
 	<string name="type.shop.hairdresser">Frisör</string>
 	<string name="type.shop.hardware">Järnhandel</string>
+	<string name="type.shop.houseware">Järnhandel</string>
 	<string name="type.shop.jewelry">Smycken</string>
 	<string name="type.shop.laundry">Tvättstuga</string>
 	<string name="type.shop.mall">Galleria</string>
@@ -1243,6 +1244,7 @@
 	<string name="type.shop.newsagent">Tidningsstånd</string>
 	<string name="type.shop.optician">Optiker</string>
 	<string name="type.shop.outdoor">Fritidsutrustning</string>
+	<string name="type.shop.pastry">Bageri</string>
 	<string name="type.shop.pawnbroker">Pantbank</string>
 	<string name="type.shop.pet">Djuraffär</string>
 	<string name="type.shop.photo">Fotoaffär</string>

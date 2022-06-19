@@ -1234,6 +1234,7 @@
 	<string name="type.shop.greengrocer">Penjual sayuran</string>
 	<string name="type.shop.hairdresser">Penata rambut</string>
 	<string name="type.shop.hardware">Toko perangkat keras</string>
+	<string name="type.shop.houseware">Toko perangkat keras</string>
 	<string name="type.shop.jewelry">Perhiasan</string>
 	<string name="type.shop.kiosk">Toko</string>
 	<string name="type.shop.laundry">Londri</string>
@@ -1246,6 +1247,7 @@
 	<string name="type.shop.newsagent">Kios Surat Kabar</string>
 	<string name="type.shop.optician">Toko kacamata</string>
 	<string name="type.shop.outdoor">Peralatan Outdoor</string>
+	<string name="type.shop.pastry">Toko roti</string>
 	<string name="type.shop.pawnbroker">Rumah Gadai</string>
 	<string name="type.shop.pet">Toko hewan</string>
 	<string name="type.shop.photo">Studio Foto</string>

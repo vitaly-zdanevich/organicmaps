@@ -1437,6 +1437,7 @@
 	<string name="type.shop.greengrocer">Gemüseladen</string>
 	<string name="type.shop.hairdresser">Friseur</string>
 	<string name="type.shop.hardware">Eisenwarengeschäft</string>
+	<string name="type.shop.houseware">Baumarkt</string>
 	<string name="type.shop.jewelry">Juweliergeschäft</string>
 	<string name="type.shop.laundry">Wäscherei</string>
 	<string name="type.shop.mall">Einkaufszentrum</string>
@@ -1449,6 +1450,7 @@
 	<string name="type.shop.newsagent">Zeitungsstand</string>
 	<string name="type.shop.optician">Optiker</string>
 	<string name="type.shop.outdoor">Outdoor-Ausrüstung</string>
+	<string name="type.shop.pastry">Bäckerei</string>
 	<string name="type.shop.pawnbroker">Pfandleihe</string>
 	<string name="type.shop.pet">Tierhandlung</string>
 	<string name="type.shop.photo">Fotofachgeschäft</string>

@@ -1242,6 +1242,7 @@
 	<string name="type.shop.greengrocer">Cửa hàng rau củ</string>
 	<string name="type.shop.hairdresser">Tiệm làm tóc</string>
 	<string name="type.shop.hardware">Cửa hàng phần cứng</string>
+	<string name="type.shop.houseware">Cửa hàng phần cứng</string>
 	<string name="type.shop.jewelry">Đồ trang sức</string>
 	<string name="type.shop.kiosk">Cửa hàng</string>
 	<string name="type.shop.laundry">Giặt là</string>
@@ -1255,6 +1256,7 @@
 	<string name="type.shop.newsagent">Quầy báo</string>
 	<string name="type.shop.optician">Cửa hàng mắt kính</string>
 	<string name="type.shop.outdoor">Thiết bị Ngoài trời</string>
+	<string name="type.shop.pastry">Hiệu bánh</string>
 	<string name="type.shop.pawnbroker">Cầm đồ</string>
 	<string name="type.shop.pet">Cửa Hàng Vật Nuôi</string>
 	<string name="type.shop.photo">Hiệu Ảnh</string>

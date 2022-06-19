@@ -1243,6 +1243,7 @@
 	<string name="type.shop.greengrocer">Zöldséges</string>
 	<string name="type.shop.hairdresser">Fodrász</string>
 	<string name="type.shop.hardware">Vaskereskedés</string>
+	<string name="type.shop.houseware">Vaskereskedés</string>
 	<string name="type.shop.jewelry">Ékszer</string>
 	<string name="type.shop.kiosk">Trafik</string>
 	<string name="type.shop.laundry">Mosoda</string>
@@ -1256,6 +1257,7 @@
 	<string name="type.shop.newsagent">Újságárus</string>
 	<string name="type.shop.optician">Optika</string>
 	<string name="type.shop.outdoor">Kültéri felszerelés</string>
+	<string name="type.shop.pastry">Pékség</string>
 	<string name="type.shop.pawnbroker">Zálogház</string>
 	<string name="type.shop.pet">Házikedvenc-üzlet</string>
 	<string name="type.shop.photo">Fénykép üzlet</string>

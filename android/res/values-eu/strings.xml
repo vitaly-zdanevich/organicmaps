@@ -1306,6 +1306,7 @@
 	<string name="type.shop.greengrocer">Fruta denda</string>
 	<string name="type.shop.hairdresser">Barber-denda</string>
 	<string name="type.shop.hardware">Burdindegia</string>
+	<string name="type.shop.houseware">Burdindegia</string>
 	<string name="type.shop.jewelry">Bitxiak</string>
 	<string name="type.shop.kiosk">Kioskoa</string>
 	<string name="type.shop.laundry">Garbitegia</string>
@@ -1319,6 +1320,7 @@
 	<string name="type.shop.newsagent">Kioskoa</string>
 	<string name="type.shop.optician">Optika</string>
 	<string name="type.shop.outdoor">Ekipamendua</string>
+	<string name="type.shop.pastry">Okindegia</string>
 	<string name="type.shop.pawnbroker">Peoia</string>
 	<string name="type.shop.pet">Animali denda</string>
 	<string name="type.shop.photo">Argazkilaritza artikuluak</string>

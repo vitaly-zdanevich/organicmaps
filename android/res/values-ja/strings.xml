@@ -1398,6 +1398,7 @@
 	<string name="type.shop.greengrocer">八百屋</string>
 	<string name="type.shop.hairdresser">美容院/理容店</string>
 	<string name="type.shop.hardware">工具店</string>
+	<string name="type.shop.houseware">工具店</string>
 	<string name="type.shop.jewelry">宝石店</string>
 	<string name="type.shop.kiosk">キオスク</string>
 	<string name="type.shop.laundry">ランドリー</string>
@@ -1411,6 +1412,7 @@
 	<string name="type.shop.newsagent">新聞販売店</string>
 	<string name="type.shop.optician">眼鏡店</string>
 	<string name="type.shop.outdoor">アウトドア用品店</string>
+	<string name="type.shop.pastry">パン屋</string>
 	<string name="type.shop.pawnbroker">質屋</string>
 	<string name="type.shop.pet">ペットショップ</string>
 	<string name="type.shop.photo">写真屋</string>

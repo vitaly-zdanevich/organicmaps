@@ -2760,6 +2760,8 @@
 
 "type.shop.cosmetics" = "Produits de beauté";
 
+"type.shop.deli" = "Delicatessen Shop";
+
 "type.shop.department_store" = "Grand magasin";
 
 "type.shop.doityourself" = "Magasin de bricolage";
@@ -2771,6 +2773,8 @@
 "type.shop.erotic" = "Boutique érotique";
 
 "type.shop.fabric" = "Magasin de tissus";
+
+"type.shop.farm" = "Farm Food Shop";
 
 "type.shop.florist" = "Fleuriste";
 
@@ -2784,13 +2788,21 @@
 
 "type.shop.greengrocer" = "Primeur";
 
+"type.shop.grocery" = "Grocery";
+
 "type.shop.hairdresser" = "Coiffeur";
 
 "type.shop.hardware" = "Quincaillerie";
 
+"type.shop.health_food" = "Health Food Shop";
+
+"type.shop.houseware" = "Magasin de bricolage";
+
 "type.shop.jewelry" = "Bijouterie";
 
 "type.shop.kiosk" = "Kiosque";
+
+"type.shop.kitchen" = "Kitchen Store";
 
 "type.shop.laundry" = "Laverie";
 
@@ -2814,6 +2826,8 @@
 
 "type.shop.outdoor" = "Matériel de loisirs de plein air";
 
+"type.shop.pastry" = "Boulangerie";
+
 "type.shop.pawnbroker" = "Prêteur sur gages";
 
 "type.shop.pet" = "Animalerie";
@@ -2821,6 +2835,8 @@
 "type.shop.photo" = "Matériel de photographie";
 
 "type.shop.seafood" = "Poissonnier";
+
+"type.shop.second_hand" = "Second Hand";
 
 "type.shop.shoes" = "Magasin de chaussures";
 
@@ -2849,6 +2865,52 @@
 "type.shop.video_games" = "Boutique de jeux vidéo";
 
 "type.shop.wine" = "Caviste";
+
+"type.shop.antiques" = "Antiques";
+
+"type.shop.art" = "Arts Shop";
+
+"type.shop.baby_goods" = "Baby Goods";
+
+"type.shop.bag" = "Bags";
+
+"type.shop.boutique" = "Boutique";
+
+"type.shop.charity" = "Charity Shop";
+
+"type.shop.cheese" = "Cheese";
+
+"type.shop.craft" = "Arts and Crafts";
+
+"type.shop.dairy" = "Dairy";
+
+"type.shop.electrical" = "Electrical Store";
+
+"type.shop.fishing" = "Fishing Store";
+
+"type.shop.interior_decoration" = "Interior Decorations";
+
+"type.shop.lottery" = "Lottery Tickets";
+
+"type.shop.medical_supply" = "Medical Supplies";
+
+"type.shop.nutrition_supplements" = "Nutrition Supplements";
+
+"type.shop.paint" = "Paints";
+
+"type.shop.perfumery" = "Perfumery";
+
+"type.shop.sewing" = "Sewing Supplies";
+
+"type.shop.storage_rental" = "Storage Rental";
+
+"type.shop.tobacco" = "Tobacco";
+
+"type.shop.trade" = "Trades Supplies";
+
+"type.shop.watches" = "Watches";
+
+"type.shop.wholesale" = "Wholesale Store";
 
 "type.sport" = "sport";
 

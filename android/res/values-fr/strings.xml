@@ -1343,6 +1343,7 @@
 	<string name="type.shop.greengrocer">Primeur</string>
 	<string name="type.shop.hairdresser">Coiffeur</string>
 	<string name="type.shop.hardware">Quincaillerie</string>
+	<string name="type.shop.houseware">Magasin de bricolage</string>
 	<string name="type.shop.jewelry">Bijouterie</string>
 	<string name="type.shop.kiosk">Kiosque</string>
 	<string name="type.shop.laundry">Laverie</string>
@@ -1356,6 +1357,7 @@
 	<string name="type.shop.newsagent">Kiosque à journaux</string>
 	<string name="type.shop.optician">Opticien</string>
 	<string name="type.shop.outdoor">Matériel de loisirs de plein air</string>
+	<string name="type.shop.pastry">Boulangerie</string>
 	<string name="type.shop.pawnbroker">Prêteur sur gages</string>
 	<string name="type.shop.pet">Animalerie</string>
 	<string name="type.shop.photo">Matériel de photographie</string>

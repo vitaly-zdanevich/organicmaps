@@ -1271,6 +1271,7 @@
 	<string name="type.shop.greengrocer">Fruttivendolo</string>
 	<string name="type.shop.hairdresser">Parrucchiera</string>
 	<string name="type.shop.hardware">Ferramenta</string>
+	<string name="type.shop.houseware">Ferramenta</string>
 	<string name="type.shop.jewelry">Gioielleria</string>
 	<string name="type.shop.kiosk">Chiosco</string>
 	<string name="type.shop.laundry">Lavanderia</string>
@@ -1284,6 +1285,7 @@
 	<string name="type.shop.newsagent">Edicola</string>
 	<string name="type.shop.optician">Ottico</string>
 	<string name="type.shop.outdoor">Attrezzatura sportiva</string>
+	<string name="type.shop.pastry">Panetteria</string>
 	<string name="type.shop.pawnbroker">Pegni</string>
 	<string name="type.shop.pet">Negozio di animali</string>
 	<string name="type.shop.photo">Negozio di fotografia</string>

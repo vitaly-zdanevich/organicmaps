@@ -2760,6 +2760,8 @@
 
 "type.shop.cosmetics" = "化妝品店";
 
+"type.shop.deli" = "Delicatessen Shop";
+
 "type.shop.department_store" = "百货商场";
 
 "type.shop.doityourself" = "家居用品店";
@@ -2771,6 +2773,8 @@
 "type.shop.erotic" = "成人用品店";
 
 "type.shop.fabric" = "商店";
+
+"type.shop.farm" = "Farm Food Shop";
 
 "type.shop.florist" = "花店";
 
@@ -2784,13 +2788,21 @@
 
 "type.shop.greengrocer" = "蔬果零售店";
 
+"type.shop.grocery" = "Grocery";
+
 "type.shop.hairdresser" = "理发师";
 
 "type.shop.hardware" = "硬件店";
 
+"type.shop.health_food" = "Health Food Shop";
+
+"type.shop.houseware" = "家居用品店";
+
 "type.shop.jewelry" = "珠宝店";
 
 "type.shop.kiosk" = "商店";
+
+"type.shop.kitchen" = "Kitchen Store";
 
 "type.shop.laundry" = "洗衣店";
 
@@ -2814,6 +2826,8 @@
 
 "type.shop.outdoor" = "室外设备";
 
+"type.shop.pastry" = "烘培店";
+
 "type.shop.pawnbroker" = "典当商铺";
 
 "type.shop.pet" = "宠物店";
@@ -2821,6 +2835,8 @@
 "type.shop.photo" = "照片店";
 
 "type.shop.seafood" = "鱼商";
+
+"type.shop.second_hand" = "Second Hand";
 
 "type.shop.shoes" = "鞋店";
 
@@ -2849,6 +2865,52 @@
 "type.shop.video_games" = "电子游戏店";
 
 "type.shop.wine" = "酒品商店";
+
+"type.shop.antiques" = "Antiques";
+
+"type.shop.art" = "Arts Shop";
+
+"type.shop.baby_goods" = "Baby Goods";
+
+"type.shop.bag" = "Bags";
+
+"type.shop.boutique" = "Boutique";
+
+"type.shop.charity" = "Charity Shop";
+
+"type.shop.cheese" = "Cheese";
+
+"type.shop.craft" = "Arts and Crafts";
+
+"type.shop.dairy" = "Dairy";
+
+"type.shop.electrical" = "Electrical Store";
+
+"type.shop.fishing" = "Fishing Store";
+
+"type.shop.interior_decoration" = "Interior Decorations";
+
+"type.shop.lottery" = "Lottery Tickets";
+
+"type.shop.medical_supply" = "Medical Supplies";
+
+"type.shop.nutrition_supplements" = "Nutrition Supplements";
+
+"type.shop.paint" = "Paints";
+
+"type.shop.perfumery" = "Perfumery";
+
+"type.shop.sewing" = "Sewing Supplies";
+
+"type.shop.storage_rental" = "Storage Rental";
+
+"type.shop.tobacco" = "Tobacco";
+
+"type.shop.trade" = "Trades Supplies";
+
+"type.shop.watches" = "Watches";
+
+"type.shop.wholesale" = "Wholesale Store";
 
 "type.sport" = "sport";
 

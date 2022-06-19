@@ -1243,6 +1243,7 @@
 	<string name="type.shop.greengrocer">청과상</string>
 	<string name="type.shop.hairdresser">이발사</string>
 	<string name="type.shop.hardware">철물점</string>
+	<string name="type.shop.houseware">철물점</string>
 	<string name="type.shop.jewelry">보석류</string>
 	<string name="type.shop.kiosk">정자</string>
 	<string name="type.shop.laundry">세탁소</string>
@@ -1256,6 +1257,7 @@
 	<string name="type.shop.newsagent">신문 가판대</string>
 	<string name="type.shop.optician">안경점 의</string>
 	<string name="type.shop.outdoor">아웃도어 장비</string>
+	<string name="type.shop.pastry">베이커리</string>
 	<string name="type.shop.pawnbroker">전당포</string>
 	<string name="type.shop.pet">펫샵</string>
 	<string name="type.shop.photo">사진 가게</string>

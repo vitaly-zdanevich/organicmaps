@@ -2760,6 +2760,8 @@
 
 "type.shop.cosmetics" = "Καλλυντικά";
 
+"type.shop.deli" = "Delicatessen Shop";
+
 "type.shop.department_store" = "Πολυκατάστημα";
 
 "type.shop.doityourself" = "Είδη κιγκαλερίας";
@@ -2771,6 +2773,8 @@
 "type.shop.erotic" = "Κατάστημα ερωτικών ειδών";
 
 "type.shop.fabric" = "Κατάστημα";
+
+"type.shop.farm" = "Farm Food Shop";
 
 "type.shop.florist" = "Ανθοπωλείο";
 
@@ -2784,13 +2788,21 @@
 
 "type.shop.greengrocer" = "Μανάβικο";
 
+"type.shop.grocery" = "Grocery";
+
 "type.shop.hairdresser" = "Κομμωτής";
 
 "type.shop.hardware" = "Είδη κιγκαλερίας";
 
+"type.shop.health_food" = "Health Food Shop";
+
+"type.shop.houseware" = "Είδη κιγκαλερίας";
+
 "type.shop.jewelry" = "Κοσμηματοπωλείο";
 
 "type.shop.kiosk" = "Περίπτερο";
+
+"type.shop.kitchen" = "Kitchen Store";
 
 "type.shop.laundry" = "Άπλυτα";
 
@@ -2814,6 +2826,8 @@
 
 "type.shop.outdoor" = "Εξοπλισμός υπαίθρου";
 
+"type.shop.pastry" = "Αρτοποιείο";
+
 "type.shop.pawnbroker" = "Ενεχυροδανειστήριο";
 
 "type.shop.pet" = "Κατάστημα για κατοικίδια";
@@ -2821,6 +2835,8 @@
 "type.shop.photo" = "Φωτογραφείο";
 
 "type.shop.seafood" = "Κατάστημα με θαλασσινά";
+
+"type.shop.second_hand" = "Second Hand";
 
 "type.shop.shoes" = "Υποδηματοπωλείο";
 
@@ -2849,6 +2865,52 @@
 "type.shop.video_games" = "Κατάστημα βιντεοπαιχνιδιών";
 
 "type.shop.wine" = "Οινοπωλείο";
+
+"type.shop.antiques" = "Antiques";
+
+"type.shop.art" = "Arts Shop";
+
+"type.shop.baby_goods" = "Baby Goods";
+
+"type.shop.bag" = "Bags";
+
+"type.shop.boutique" = "Boutique";
+
+"type.shop.charity" = "Charity Shop";
+
+"type.shop.cheese" = "Cheese";
+
+"type.shop.craft" = "Arts and Crafts";
+
+"type.shop.dairy" = "Dairy";
+
+"type.shop.electrical" = "Electrical Store";
+
+"type.shop.fishing" = "Fishing Store";
+
+"type.shop.interior_decoration" = "Interior Decorations";
+
+"type.shop.lottery" = "Lottery Tickets";
+
+"type.shop.medical_supply" = "Medical Supplies";
+
+"type.shop.nutrition_supplements" = "Nutrition Supplements";
+
+"type.shop.paint" = "Paints";
+
+"type.shop.perfumery" = "Perfumery";
+
+"type.shop.sewing" = "Sewing Supplies";
+
+"type.shop.storage_rental" = "Storage Rental";
+
+"type.shop.tobacco" = "Tobacco";
+
+"type.shop.trade" = "Trades Supplies";
+
+"type.shop.watches" = "Watches";
+
+"type.shop.wholesale" = "Wholesale Store";
 
 "type.sport" = "sport";
 

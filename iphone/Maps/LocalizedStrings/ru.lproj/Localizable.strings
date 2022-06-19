@@ -2760,6 +2760,8 @@
 
 "type.shop.cosmetics" = "Косметика";
 
+"type.shop.deli" = "Магазин деликатесов";
+
 "type.shop.department_store" = "Универмаг";
 
 "type.shop.doityourself" = "Хозяйственный";
@@ -2771,6 +2773,8 @@
 "type.shop.erotic" = "Секс-шоп";
 
 "type.shop.fabric" = "Магазин";
+
+"type.shop.farm" = "Магазин фермерской еды";
 
 "type.shop.florist" = "Цветочный магазин";
 
@@ -2784,13 +2788,21 @@
 
 "type.shop.greengrocer" = "Овощи и фрукты";
 
+"type.shop.grocery" = "Бакалея";
+
 "type.shop.hairdresser" = "Парикмахерская";
 
 "type.shop.hardware" = "Хозяйственный";
 
+"type.shop.health_food" = "Магазин здоровой еды";
+
+"type.shop.houseware" = "Хозяйственный";
+
 "type.shop.jewelry" = "Ювелирный магазин";
 
 "type.shop.kiosk" = "Киоск";
+
+"type.shop.kitchen" = "Магазин кухонь";
 
 "type.shop.laundry" = "Прачечная";
 
@@ -2814,6 +2826,8 @@
 
 "type.shop.outdoor" = "Магазин снаряжения";
 
+"type.shop.pastry" = "Кондитерская пекарня";
+
 "type.shop.pawnbroker" = "Ломбард";
 
 "type.shop.pet" = "Зоотовары";
@@ -2821,6 +2835,8 @@
 "type.shop.photo" = "Фототовары";
 
 "type.shop.seafood" = "Рыбный магазин";
+
+"type.shop.second_hand" = "Магазин подержанных товаров";
 
 "type.shop.shoes" = "Магазин обуви";
 
@@ -2849,6 +2865,52 @@
 "type.shop.video_games" = "Магазин видеоигр";
 
 "type.shop.wine" = "Винный магазин";
+
+"type.shop.antiques" = "Антиквариат";
+
+"type.shop.art" = "Arts Shop";
+
+"type.shop.baby_goods" = "Детский магазин";
+
+"type.shop.bag" = "Bags";
+
+"type.shop.boutique" = "Бутик";
+
+"type.shop.charity" = "Благотворительный магазин";
+
+"type.shop.cheese" = "Сыры";
+
+"type.shop.craft" = "Arts and Crafts";
+
+"type.shop.dairy" = "Молочные продукты";
+
+"type.shop.electrical" = "Электротовары";
+
+"type.shop.fishing" = "Рыболовный магазин";
+
+"type.shop.interior_decoration" = "Interior Decorations";
+
+"type.shop.lottery" = "Lottery Tickets";
+
+"type.shop.medical_supply" = "Medical Supplies";
+
+"type.shop.nutrition_supplements" = "Nutrition Supplements";
+
+"type.shop.paint" = "Краски";
+
+"type.shop.perfumery" = "Парфюмерия";
+
+"type.shop.sewing" = "Швейный магазин";
+
+"type.shop.storage_rental" = "Storage Rental";
+
+"type.shop.tobacco" = "Табак";
+
+"type.shop.trade" = "Trades Supplies";
+
+"type.shop.watches" = "Наручные часы";
+
+"type.shop.wholesale" = "Оптовый магазин";
 
 "type.sport" = "Спорт";
 

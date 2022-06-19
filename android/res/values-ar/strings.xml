@@ -1249,6 +1249,7 @@
 	<string name="type.shop.greengrocer">متجر خضروات وفواكه</string>
 	<string name="type.shop.hairdresser">مصفف شعر</string>
 	<string name="type.shop.hardware">متجر عدد وأدوات</string>
+	<string name="type.shop.houseware">متجر عدد وأدوات</string>
 	<string name="type.shop.jewelry">مجوهرات</string>
 	<string name="type.shop.kiosk">كشك</string>
 	<string name="type.shop.laundry">مغسلة ملابس</string>
@@ -1262,6 +1263,7 @@
 	<string name="type.shop.newsagent">كشك الجرائد</string>
 	<string name="type.shop.optician">مركز بصريات</string>
 	<string name="type.shop.outdoor">معدات خارجية</string>
+	<string name="type.shop.pastry">مخبز</string>
 	<string name="type.shop.pawnbroker">سمسار تسليف</string>
 	<string name="type.shop.pet">متجر للحيوانات الأليفة</string>
 	<string name="type.shop.photo">محل صور</string>

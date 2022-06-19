@@ -1435,6 +1435,7 @@
 	<string name="type.shop.greengrocer">Loja de frutas e verduras</string>
 	<string name="type.shop.hairdresser">Cabeleireiro(a)</string>
 	<string name="type.shop.hardware">Loja de ferragens</string>
+	<string name="type.shop.houseware">Loja de ferramentas e materiais de bricolage</string>
 	<string name="type.shop.jewelry">Joalharia</string>
 	<string name="type.shop.kiosk">Quiosque</string>
 	<string name="type.shop.laundry">Lavandaria</string>
@@ -1448,6 +1449,7 @@
 	<string name="type.shop.newsagent">Banca de jornais</string>
 	<string name="type.shop.optician">Ótica</string>
 	<string name="type.shop.outdoor">Artigos de atividades ao ar livre</string>
+	<string name="type.shop.pastry">Padaria</string>
 	<string name="type.shop.pawnbroker">Casa de penhores</string>
 	<string name="type.shop.pet">Loja de animais de estimação</string>
 	<string name="type.shop.photo">Loja de fotografia</string>

@@ -1152,6 +1152,7 @@
 	<string name="type.shop.greengrocer">فروشگاه</string>
 	<string name="type.shop.hairdresser">ارایشگاه</string>
 	<string name="type.shop.hardware">فروشگاه</string>
+	<string name="type.shop.houseware">فروشگاه</string>
 	<string name="type.shop.jewelry">طلا فروشی</string>
 	<string name="type.shop.kiosk">دَکهِ</string>
 	<string name="type.shop.laundry">لباس شویی</string>
@@ -1165,6 +1166,7 @@
 	<string name="type.shop.newsagent">فروشگاه</string>
 	<string name="type.shop.optician">فروشگاه</string>
 	<string name="type.shop.outdoor">فروشگاه</string>
+	<string name="type.shop.pastry">فروشگاه</string>
 	<string name="type.shop.pawnbroker">عتیقه فروشی</string>
 	<string name="type.shop.pet">فروشگاه</string>
 	<string name="type.shop.photo">فروشگاه</string>

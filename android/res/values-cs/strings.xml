@@ -1244,6 +1244,7 @@
 	<string name="type.shop.greengrocer">Ovoce a zelenina</string>
 	<string name="type.shop.hairdresser">Kadeřnictví</string>
 	<string name="type.shop.hardware">Železářství</string>
+	<string name="type.shop.houseware">Železářství</string>
 	<string name="type.shop.jewelry">Klenotnictví</string>
 	<string name="type.shop.laundry">Prádelna</string>
 	<string name="type.shop.mall">Obchoďák</string>
@@ -1256,6 +1257,7 @@
 	<string name="type.shop.newsagent">Novinový stánek</string>
 	<string name="type.shop.optician">Optika</string>
 	<string name="type.shop.outdoor">Venkovní vybavení</string>
+	<string name="type.shop.pastry">Pekárna</string>
 	<string name="type.shop.pawnbroker">Zastavárna</string>
 	<string name="type.shop.pet">Zverimex</string>
 	<string name="type.shop.photo">Fotografický obchod</string>

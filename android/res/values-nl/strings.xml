@@ -1253,6 +1253,7 @@
 	<string name="type.shop.greengrocer">Groentenwinkel</string>
 	<string name="type.shop.hairdresser">Kapper</string>
 	<string name="type.shop.hardware">Ijzerhandel</string>
+	<string name="type.shop.houseware">Ijzerhandel</string>
 	<string name="type.shop.jewelry">Juwelier</string>
 	<string name="type.shop.laundry">Wasserette</string>
 	<string name="type.shop.mall">Het winkelcentrum</string>
@@ -1265,6 +1266,7 @@
 	<string name="type.shop.newsagent">Kiosk</string>
 	<string name="type.shop.optician">Opticien</string>
 	<string name="type.shop.outdoor">Outdooruitrusting</string>
+	<string name="type.shop.pastry">Bakkerij</string>
 	<string name="type.shop.pawnbroker">Pandjesbaas</string>
 	<string name="type.shop.pet">Dierenwinkel</string>
 	<string name="type.shop.photo">Fotowinkel</string>

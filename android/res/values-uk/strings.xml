@@ -1476,6 +1476,7 @@
 	<string name="type.shop.greengrocer">Овочі та фрукти</string>
 	<string name="type.shop.hairdresser">Перукарня</string>
 	<string name="type.shop.hardware">Будматеріали</string>
+	<string name="type.shop.houseware">Господарськi товари</string>
 	<string name="type.shop.jewelry">Ювелірний магазин</string>
 	<string name="type.shop.kiosk">Кіоск</string>
 	<string name="type.shop.laundry">Пральня</string>
@@ -1489,6 +1490,7 @@
 	<string name="type.shop.newsagent">Газетний кіоск</string>
 	<string name="type.shop.optician">Оптика</string>
 	<string name="type.shop.outdoor">Спорядження</string>
+	<string name="type.shop.pastry">Пекарня</string>
 	<string name="type.shop.pawnbroker">Ломбард</string>
 	<string name="type.shop.pet">Зоотовари</string>
 	<string name="type.shop.photo">Фототовари</string>

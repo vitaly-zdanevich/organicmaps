@@ -1475,6 +1475,7 @@
 	<string name="type.shop.greengrocer">Manav</string>
 	<string name="type.shop.hairdresser">Kuaför</string>
 	<string name="type.shop.hardware">Hırdavatçı</string>
+	<string name="type.shop.houseware">Hırdavatçı</string>
 	<string name="type.shop.jewelry">Kuyumcu</string>
 	<string name="type.shop.kiosk">Büfe</string>
 	<string name="type.shop.laundry">Çamaşırhane</string>
@@ -1488,6 +1489,7 @@
 	<string name="type.shop.newsagent">Gazete Standı</string>
 	<string name="type.shop.optician">Gözlükçü</string>
 	<string name="type.shop.outdoor">Dış Mekan Ekipmanları</string>
+	<string name="type.shop.pastry">Fırın</string>
 	<string name="type.shop.pawnbroker">Tefeci</string>
 	<string name="type.shop.pet">Evcil Hayvan Mağazası</string>
 	<string name="type.shop.photo">Fotoğrafçı</string>
