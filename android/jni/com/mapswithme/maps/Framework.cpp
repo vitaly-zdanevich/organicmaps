@@ -911,7 +911,7 @@ Java_com_mapswithme_maps_Framework_nativeGetDistanceAndAzimuthFromLatLon(
   return Java_com_mapswithme_maps_Framework_nativeGetDistanceAndAzimuth(env, clazz, merX, merY, cLat, cLon, north);
 }
 
-JNIEXPORT jobject JNICALL
+JNIEXPORT jstring JNICALL
 Java_com_mapswithme_maps_Framework_nativeFormatLatLon(JNIEnv * env, jclass, jdouble lat, jdouble lon, int coordsFormat)
 {
   switch (static_cast<android::CoordinatesFormat>(coordsFormat))
@@ -928,15 +928,14 @@ Java_com_mapswithme_maps_Framework_nativeFormatLatLon(JNIEnv * env, jclass, jdou
   }
 }
 
-JNIEXPORT jobject JNICALL
+JNIEXPORT jstring JNICALL
 Java_com_mapswithme_maps_Framework_nativeFormatAltitude(JNIEnv * env, jclass, jdouble alt)
 {
   auto const localizedUnits = platform::GetLocalizedAltitudeUnits();
-  return jni::ToJavaString(env, measurement_utils::FormatAltitudeWithLocalization(alt,
-                                                                                  localizedUnits.m_low));
+  return jni::ToJavaString(env, measurement_utils::FormatAltitudeWithLocalization(alt, localizedUnits.m_low));
 }
 
-JNIEXPORT jobject JNICALL
+JNIEXPORT jstring JNICALL
 Java_com_mapswithme_maps_Framework_nativeFormatSpeed(JNIEnv * env, jclass, jdouble speed)
 {
   return jni::ToJavaString(env, measurement_utils::FormatSpeed(speed));
@@ -1193,7 +1192,7 @@ Java_com_mapswithme_maps_Framework_nativeGetRouteFollowingInfo(JNIEnv * env, jcl
   }
 
   auto const & rm = frm()->GetRoutingManager();
-  auto const isSpeedLimitExceeded = rm.IsRoutingActive() ? rm.IsSpeedLimitExceeded() : false;
+  auto const isSpeedLimitExceeded = rm.IsRoutingActive() && rm.IsSpeedLimitExceeded();
   auto const shouldPlaySignal = frm()->GetRoutingManager().GetSpeedCamManager().ShouldPlayBeepSignal();
   jobject const result = env->NewObject(
       klass, ctorRouteInfoID, jni::ToJavaString(env, info.m_distToTarget),
@@ -1338,7 +1337,7 @@ Java_com_mapswithme_maps_Framework_nativeSetMapStyle(JNIEnv * env, jclass, jint 
 }
 
 JNIEXPORT jint JNICALL
-Java_com_mapswithme_maps_Framework_nativeGetMapStyle(JNIEnv * env, jclass, jint mapStyle)
+Java_com_mapswithme_maps_Framework_nativeGetMapStyle(JNIEnv * env, jclass)
 {
   return g_framework->GetMapStyle();
 }
@@ -1697,25 +1696,25 @@ Java_com_mapswithme_maps_Framework_nativeInvalidRoutePointsTransactionId(JNIEnv 
 }
 
 JNIEXPORT jboolean JNICALL
-Java_com_mapswithme_maps_Framework_nativeHasSavedRoutePoints()
+Java_com_mapswithme_maps_Framework_nativeHasSavedRoutePoints(JNIEnv *, jclass)
 {
   return frm()->GetRoutingManager().HasSavedRoutePoints();
 }
 
 JNIEXPORT void JNICALL
-Java_com_mapswithme_maps_Framework_nativeLoadRoutePoints()
+Java_com_mapswithme_maps_Framework_nativeLoadRoutePoints(JNIEnv *, jclass)
 {
   frm()->GetRoutingManager().LoadRoutePoints(g_loadRouteHandler);
 }
 
 JNIEXPORT void JNICALL
-Java_com_mapswithme_maps_Framework_nativeSaveRoutePoints()
+Java_com_mapswithme_maps_Framework_nativeSaveRoutePoints(JNIEnv *, jclass)
 {
   frm()->GetRoutingManager().SaveRoutePoints();
 }
 
 JNIEXPORT void JNICALL
-Java_com_mapswithme_maps_Framework_nativeDeleteSavedRoutePoints()
+Java_com_mapswithme_maps_Framework_nativeDeleteSavedRoutePoints(JNIEnv *, jclass)
 {
   frm()->GetRoutingManager().DeleteSavedRoutePoints();
 }
