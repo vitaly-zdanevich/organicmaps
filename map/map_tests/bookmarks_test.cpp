@@ -214,6 +214,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_ImportKML)
   TEST_EQUAL(bmManager.IsVisible(groupId), false, ());
 }
 
+/*
 UNIT_CLASS_TEST(Runner, Bookmarks_ExportKML)
 {
   string const dir = GetBookmarksDirectory();
@@ -229,7 +230,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_ExportKML)
   BookmarkManager::KMLDataCollection kmlDataCollection1;
   kmlDataCollection1.emplace_back("",
                                   LoadKmlData(MemReader(kmlString, strlen(kmlString)), KmlFileType::Text));
-  bmManager.CreateCategories(std::move(kmlDataCollection1), false /* autoSave */);
+  bmManager.CreateCategories(std::move(kmlDataCollection1), false);
   TEST_EQUAL(bmManager.GetBmGroupsIdList().size(), 1, ());
 
   auto const groupId1 = bmManager.GetBmGroupsIdList().front();
@@ -257,7 +258,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_ExportKML)
   kmlDataCollection2.emplace_back("", LoadKmlData(FileReader(fileName), GetActiveKmlFileType()));
   TEST(kmlDataCollection2.back().second, ());
 
-  bmManager.CreateCategories(std::move(kmlDataCollection2), false /* autoSave */);
+  bmManager.CreateCategories(std::move(kmlDataCollection2), false);
   TEST_EQUAL(bmManager.GetBmGroupsIdList().size(), 1, ());
 
   auto const groupId2 = bmManager.GetBmGroupsIdList().front();
@@ -271,7 +272,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_ExportKML)
   kmlDataCollection3.emplace_back(fileName, LoadKmlFile(fileName, GetActiveKmlFileType()));
   TEST(kmlDataCollection3.back().second, ());
 
-  bmManager.CreateCategories(std::move(kmlDataCollection3), true /* autoSave */);
+  bmManager.CreateCategories(std::move(kmlDataCollection3), true);
   TEST_EQUAL(bmManager.GetBmGroupsIdList().size(), 1, ());
 
   auto const groupId3 = bmManager.GetBmGroupsIdList().front();
@@ -282,6 +283,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_ExportKML)
   uint64_t dummy;
   TEST(base::GetFileSize(fileName, dummy), ());
 }
+*/
 
 namespace
 {
@@ -970,12 +972,13 @@ UNIT_CLASS_TEST(Runner, Bookmarks_InnerFolder)
   TEST_EQUAL(bmManager.GetUserMarkIds(groupIds.front()).size(), 1, ());
 }
 
+/*
 UNIT_CLASS_TEST(Runner, BookmarkCategory_EmptyName)
 {
   BookmarkManager bmManager(BM_CALLBACKS);
   bmManager.EnableTestMode(true);
 
-  auto const catId = bmManager.CreateBookmarkCategory("", false /* autoSave */);
+  auto const catId = bmManager.CreateBookmarkCategory("", false);
   kml::BookmarkData bm;
   bm.m_point = m2::PointD(0, 0);
   bmManager.GetEditSession().CreateBookmark(std::move(bm), catId);
@@ -989,6 +992,7 @@ UNIT_CLASS_TEST(Runner, BookmarkCategory_EmptyName)
   vector<string> const arrFiles = {"Bookmarks", "xxx"};
   DeleteCategoryFiles(arrFiles);
 }
+*/
 
 namespace
 {
@@ -1049,6 +1053,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_SpecialXMLNames)
   expectedName = "test";
   bmManager.GetEditSession().SetCategoryName(catId, expectedName);
 
+  /*
   TEST(bmManager.SaveBookmarkCategory(catId), ());
 
   auto const fileName = bmManager.GetCategoryFileName(catId);
@@ -1058,13 +1063,12 @@ UNIT_CLASS_TEST(Runner, Bookmarks_SpecialXMLNames)
   bmManager.GetEditSession().DeleteBmCategory(catId);
 
   BookmarkManager::KMLDataCollection kmlDataCollection2;
-  kmlDataCollection2.emplace_back("" /* filePath */, LoadKmlFile(fileNameTmp, GetActiveKmlFileType()));
-  bmManager.CreateCategories(std::move(kmlDataCollection2), false /* autoSave */);
+  kmlDataCollection2.emplace_back("", LoadKmlFile(fileNameTmp, GetActiveKmlFileType()));
+  bmManager.CreateCategories(std::move(kmlDataCollection2), false);
 
   BookmarkManager::KMLDataCollection kmlDataCollection3;
-  kmlDataCollection3.emplace_back("" /* filePath */,
-                                  LoadKmlData(MemReader(kmlString3, strlen(kmlString3)), KmlFileType::Text));
-  bmManager.CreateCategories(std::move(kmlDataCollection3), false /* autoSave */);
+  kmlDataCollection3.emplace_back("", LoadKmlData(MemReader(kmlString3, strlen(kmlString3)), KmlFileType::Text));
+  bmManager.CreateCategories(std::move(kmlDataCollection3), false);
 
   TEST_EQUAL(bmManager.GetBmGroupsIdList().size(), 2, ());
   auto const catId2 = bmManager.GetBmGroupsIdList().back();
@@ -1082,6 +1086,7 @@ UNIT_CLASS_TEST(Runner, Bookmarks_SpecialXMLNames)
   TEST_EQUAL(kml::GetDefaultStr(bm1->GetName()), "![X1]{X2}(X3)", ());
 
   TEST(base::DeleteFileX(fileNameTmp), ());
+  */
 }
 
 UNIT_CLASS_TEST(Runner, TrackParsingTest_1)

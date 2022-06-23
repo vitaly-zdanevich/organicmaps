@@ -364,9 +364,11 @@ public:
   void FilterInvalidBookmarks(kml::MarkIdCollection & bookmarks) const;
   void FilterInvalidTracks(kml::TrackIdCollection & tracks) const;
 
+  /// @todo Avoid dualism with sync/async tasks. Leave async only.
   void EnableTestMode(bool enable);
-  bool SaveBookmarkCategory(kml::MarkGroupId groupId);
-  bool SaveBookmarkCategory(kml::MarkGroupId groupId, Writer & writer, KmlFileType fileType) const;
+
+//  bool SaveBookmarkCategory(kml::MarkGroupId groupId);
+//  bool SaveBookmarkCategory(kml::MarkGroupId groupId, Writer & writer, KmlFileType fileType) const;
   void CreateCategories(KMLDataCollection && dataCollection, bool autoSave = true);
   static std::string GetTracksSortedBlockName();
   static std::string GetOthersSortedBlockName();
